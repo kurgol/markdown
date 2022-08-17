@@ -11,7 +11,7 @@
 5. [Link to subfolder](#link-to-subfolder)
 6. [Footnotes](#footnotes)
 7. [Mermaid](#mermaid)
-8. [Expandable Section](#expandable-section)
+8. [Spoiler](#spoiler)
 9. [References](#references)
 
 ## Introduction
@@ -74,14 +74,14 @@ graph TD
     C -->|Three| F[Car]
 ```
 
-## Expandable section
+## Spoiler
 
-<details>
+<spoiler>
   <summary> Analysis </summary>
    
    Some hidden text
    
-</details>
+</spoiler>
 
 ## References
 
