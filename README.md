@@ -80,6 +80,7 @@ graph TD
   <summary> Analysis </summary>
    
    Some hidden text
+   
 </details>
 
 ## References
