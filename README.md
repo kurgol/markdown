@@ -7,7 +7,8 @@
    1. [Subsection](#subsection)
 3. [Code Block](#code-block)
 4. [Link to subfolder](#link-to-subfolder)
-5. [References](#references)
+5. [Footnotes](#footnotes)
+6. [References](#references)
 
 ## Introduction
 
@@ -34,6 +35,21 @@ An example code block:
 
 You can find more information in the [example](docs/example.md) page.
 
+## Footnotes
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+    
 ## References
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
