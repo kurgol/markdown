@@ -76,12 +76,12 @@ graph TD
 
 ## Spoiler
 
-<spoiler>
-  <summary> Analysis </summary>
+<details>
+  <summary> Spoiler </summary>
    
    Some hidden text
    
-</spoiler>
+</details>
 
 ## References
 
