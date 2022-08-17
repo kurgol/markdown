@@ -25,6 +25,8 @@ Subsection paragraph.
 
 ## Code Block
 
+An example of `inline code`. 
+
 An example code block:
 
 ```html
