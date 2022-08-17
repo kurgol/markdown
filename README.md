@@ -53,6 +53,9 @@ You can also use words, to fit your writing style more closely[^note].
 
 ## Mermaid
 
+* [Mermaid Live Editor](https://mermaid.live/)
+* [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted)
+
 ```mermaid
   graph TD;
       A-->B;
