@@ -56,13 +56,12 @@ You can also use words, to fit your writing style more closely[^note].
 * [Mermaid Live Editor](https://mermaid.live/)
 * [Mermaid Documentation](https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted)
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
 
 ## References
 
