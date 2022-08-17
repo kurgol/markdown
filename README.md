@@ -5,11 +5,13 @@
 1. [Introduction](#introduction)
 2. [Multi Word Section](#multi-word-section)
    1. [Subsection](#subsection)
-3. [Code Block](#code-block)
-4. [Link to subfolder](#link-to-subfolder)
-5. [Footnotes](#footnotes)
-6. [Mermaid](#mermaid)
-6. [References](#references)
+3. [Code Block](#code)
+   1. [Inline](#inline)
+   2. [Block](#block)
+5. [Link to subfolder](#link-to-subfolder)
+6. [Footnotes](#footnotes)
+7. [Mermaid](#mermaid)
+8. [References](#references)
 
 ## Introduction
 
@@ -23,9 +25,13 @@ Multi word section paragraph.
 
 Subsection paragraph.
 
-## Code Block
+## Code
+
+### Inline
 
 An example of `inline code`. 
+
+### Block
 
 An example code block:
 
